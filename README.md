@@ -83,7 +83,7 @@ Below are some of my earned certifications:
 
 ## 🐍 Python Programming
 <p align="center">
-    <img src="Certificates/Python.jpg"
+    <img src="Python.jpg"
          width="800"
          style="border-radius:10px;">
 </p>
