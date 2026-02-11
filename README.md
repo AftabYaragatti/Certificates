@@ -20,15 +20,17 @@ Each certificate represents not just completion — but commitment, consistency,
 
 These certifications are part of my formal academic curriculum and core technical foundation:
 
-- 📘 Data Structures & Algorithms (DSA)  
-- 📘 Database Management System (DBMS)  
-- 📘 Operating Systems  
-- 📘 Computer Networks  
-- 📘 Machine Learning Fundamentals  
 - 📘 Python Programming  
+- 📘 Data Structures & Algorithms (DSA)
+- 📘 Fronte-End Web Developement
+- 📘 AI Tools Workshop
+- 📘 PowerBI Workshop
+- 📘 Excel Workshop
+- 📘 Artificial Intelligence
+- 📘 Machine Learning  
+- 📘 Database Management System (DBMS)   
 - 📘 Java Programming  
-- 📘 Software Engineering  
-- 📘 Web Technologies  
+- 📘 FullStack Web Technologies  
 
 These subjects helped me build strong problem-solving ability, logical thinking, and system-level understanding.
 
@@ -80,7 +82,7 @@ Workshops strengthened my ability to apply theoretical concepts to real-time pro
 Below are some of my earned certifications:
 
 ## 🐍 Python Programming
-![Python Certificate](experience/certificate/Python.jpg)
+![Python Certificate](Certificates/COURSECERTIFICATE/Python.jpg)
 
 ## 🗄 Database Management System
 ![DBMS Certificate](experience/certificate/DBMS.jpg)
