@@ -84,22 +84,37 @@ Below are some of my earned certifications:
 ## 🐍 Python Programming
 <p align="center">
     <img src="Python.jpg"
-         width="800"
+         width="500"
          style="border-radius:10px;">
 </p>
 
 ## 🗄 Database Management System
-![DBMS Certificate](experience/certificate/DBMS.jpg)
+<p align="center">
+    <img src="DBMS.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
 
 ## 🤖 Machine Learning
-![Machine Learning Certificate](experience/certificate/ML.jpg)
+<p align="center">
+    <img src="ML Industrial Training Certificate.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
 
 ## 🌐 Web Development
-![Web Development Certificate](experience/certificate/Web.jpg)
+<p align="center">
+    <img src="Python.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
 
-## 📊 Data Analytics
-![Data Analytics Certificate](experience/certificate/DataAnalytics.jpg)
-
+## 📊 Data Structures and Algorithm
+<p align="center">
+    <img src="DSA.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
 ---
 
 # 📈 Future Learning Goals
