@@ -82,7 +82,7 @@ Workshops strengthened my ability to apply theoretical concepts to real-time pro
 Below are some of my earned certifications:
 
 ## 🐍 Python Programming
-![Python Certificate](Certificates/COURSECERTIFICATE/Python.jpg)
+![Python Certificate](Certificates/Python.jpg)
 
 ## 🗄 Database Management System
 ![DBMS Certificate](experience/certificate/DBMS.jpg)
