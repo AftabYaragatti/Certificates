@@ -88,23 +88,9 @@ Below are some of my earned certifications:
          style="border-radius:10px;">
 </p>
 
-## 🗄 Database Management System
+## 🌐 Frontend Web Development
 <p align="center">
-    <img src="DBMS.jpg"
-         width="500"
-         style="border-radius:10px;">
-</p>
-
-## 🤖 Machine Learning
-<p align="center">
-    <img src="ML Industrial Training Certificate.jpg"
-         width="500"
-         style="border-radius:10px;">
-</p>
-
-## 🌐 Web Development
-<p align="center">
-    <img src="Python.jpg"
+    <img src="Front-end Web Development.jpg"
          width="500"
          style="border-radius:10px;">
 </p>
@@ -112,6 +98,62 @@ Below are some of my earned certifications:
 ## 📊 Data Structures and Algorithm
 <p align="center">
     <img src="DSA.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
+
+## 🗄 Database Management System
+<p align="center">
+    <img src="DBMS.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
+
+## 🤖 Machine Learning Industrial Training Certificate
+<p align="center">
+    <img src="ML Industrial Training Certificate.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
+
+## 🌐AI Tool Workshop
+<p align="center">
+    <img src="AI Tools Workshop.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
+
+## 🌐Excel Workshop
+<p align="center">
+    <img src="Excel Workshop.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
+
+## 🌐PowerBI Tool Workshop
+<p align="center">
+    <img src="PowerBI Workshop.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
+
+## 🌐Full Stack Web Development
+<p align="center">
+    <img src="Full Stack Web Development.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
+
+## 🤖 Machine Learning
+<p align="center">
+    <img src="ML Intership Certificate.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
+
+## 🌐Java Programming
+<p align="center">
+    <img src="Java.jpg"
          width="500"
          style="border-radius:10px;">
 </p>
